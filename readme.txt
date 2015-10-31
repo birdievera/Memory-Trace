@@ -1,0 +1,1 @@
+The accesses that appear the most are instructions and S/L. S/L instructions in heaploop are accessed by the variable i (where for each i you store the new value and load it for every iteration). Load occurs more than storing however.
